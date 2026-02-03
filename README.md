@@ -2,6 +2,8 @@
 
 Um aplicativo devocional completo para Android com geração de conteúdo por IA, caderno de orações, diário de gratidão e comunidade cristã.
 
+https://devocional-app.vercel.app/auth
+
 ## ✨ Funcionalidades
 
 ### 🙏 Devocional Diário com IA
